@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-mongodb-app",
+  "name": "next-mongo-demo",
   "version": "1.0.0",
   "description": "Full fledged app made with Next.JS and MongoDB",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hoangvvo/nextjs-mongodb-app.git"
+    "url": "git+https://github.com/danielmeeusen/next-mongo-demo.git"
   },
   "author": "Hoang Vo (https://hoangvvo.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hoangvvo/nextjs-mongodb-app/issues"
   },
-  "homepage": "https://github.com/hoangvvo/nextjs-mongodb-app#readme",
+  "homepage": "https://next-mongo-demo.herokuapp.com/",
   "dependencies": {
     "@sendgrid/mail": "^7.4.0",
     "bcryptjs": "^2.4.3",
