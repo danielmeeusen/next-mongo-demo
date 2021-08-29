@@ -1,6 +1,6 @@
 {
   "name": "nextjs-mongodb-app",
-  "version": 2,
+  "version": 1,
   "build": {
     "env": {
       "MONGODB_URI": "mongodb+srv://danmin:tXventNMd7zBh26@cluster0.5enoz.mongodb.net/next-mongo-demo?retryWrites=true&w=majority",

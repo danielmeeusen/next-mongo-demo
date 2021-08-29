@@ -56,7 +56,6 @@ typings/
 
 # dotenv environment variables file
 .env
-.now.json
 
 # next.js build output
 .next
@@ -64,3 +63,5 @@ typings/
 # package-lock
 package-lock.json
 yarn.lock
+now.json
+
