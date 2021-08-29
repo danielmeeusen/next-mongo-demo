@@ -3,13 +3,13 @@
   "version": 2,
   "build": {
     "env": {
-      "MONGODB_URI": "mongodb+srv://testuser:dontreusethis@cluster0-gc0a7.mongodb.net/nextjsmongodbapp?retryWrites=true&w=majority",
-      "CLOUDINARY_URL": "cloudinary://741947492169653:vkyuRmZ3EbSULnkfXJdtSqwhURw@dbplcha6k",
-      "DB_NAME": "nextjsmongodbapp",
-      "SENDGRID_API_KEY": "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",
-      "EMAIL_FROM": "hello@nextjs-mongodb.now.sh",
-      "WEB_URI": "https://nextjs-mongodb.now.sh",
-      "SESSION_SECRET": "keyboard cat",
+      "MONGODB_URI": "mongodb+srv://danmin:<password>@cluster0.agnfz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+      "CLOUDINARY_URL": "cloudinary://387458651115556:L4GA_SGQN1OncN8sflMCq4A1Kn0@dnwtu2j16",
+      "DB_NAME": "next-mongo-demo",
+      "SENDGRID_API_KEY": "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",
+      "EMAIL_FROM": "info@fetishktisch.com",
+      "WEB_URI": "https://next-mongo-demo.herokuapp.com/",
+      "SESSION_SECRET": "0dfg89sd8f7gs98dfhp0e8uhperrg8s09fg80f8g09sa8g09sf8g",
       "USING_SECRETS": "Consider using Zeit Now Secrets instead."
     }
   }
