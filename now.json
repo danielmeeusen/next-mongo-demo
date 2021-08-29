@@ -3,7 +3,7 @@
   "version": 2,
   "build": {
     "env": {
-      "MONGODB_URI": "mongodb+srv://danmin:<password>@cluster0.agnfz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+      "MONGODB_URI": "mongodb+srv://danmin:tXventNMd7zBh26@cluster0.5enoz.mongodb.net/next-mongo-demo?retryWrites=true&w=majority",
       "CLOUDINARY_URL": "cloudinary://387458651115556:L4GA_SGQN1OncN8sflMCq4A1Kn0@dnwtu2j16",
       "DB_NAME": "next-mongo-demo",
       "SENDGRID_API_KEY": "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",
