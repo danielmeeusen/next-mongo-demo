@@ -60,8 +60,8 @@ typings/
 # next.js build output
 .next
 
+
 # package-lock
 package-lock.json
 yarn.lock
-now.json
 
